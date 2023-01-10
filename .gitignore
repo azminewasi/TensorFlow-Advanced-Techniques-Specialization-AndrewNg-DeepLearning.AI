@@ -6,3 +6,11 @@ C1 Custom Models, Layers, and Loss Functions with TensorFlow/W (5)/Ungraded Lab/
 C1 Custom Models, Layers, and Loss Functions with TensorFlow/W (5)/Ungraded Lab/tensorflow_datasets/horses_or_humans/3.0.0/horses_or_humans-train.tfrecord-00000-of-00002
 C1 Custom Models, Layers, and Loss Functions with TensorFlow/W (5)/Ungraded Lab/tensorflow_datasets/horses_or_humans/3.0.0/label.labels.txt
 C1 Custom Models, Layers, and Loss Functions with TensorFlow/W (5)/Ungraded Lab/tensorflow_datasets/horses_or_humans/3.0.0/features.json
+*.data-00000-of-00001
+*.tfrecord-00001-of-00002
+*.tfrecord-00000-of-00002
+*.index
+*.pb
+*.csv
+*.json
+*.json
