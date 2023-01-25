@@ -2,7 +2,9 @@
 Expand your skill set and master TensorFlow. Customize your machine learning models through four hands-on courses!
 
 ---
+Certificate : [Azmine Toushik Wasi](https://www.coursera.org/account/accomplishments/specialization/certificate/695TASH8SHFN)
 
+---
 # About this Specialization
 ## About TensorFlow
 TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML, and developers easily build and deploy ML-powered applications. TensorFlow is commonly used for machine learning applications such as voice recognition and detection, Google Translate, image recognition, and natural language processing.
